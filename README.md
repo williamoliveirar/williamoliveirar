@@ -54,13 +54,6 @@ My master's thesis investigates the feasibility of embedding **Machine Learning 
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=williamoliveirar&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamoliveirar&layout=compact" />
-</p>
-
 ### 📫 Contact
 
 <p align="left">
@@ -71,7 +64,3 @@ My master's thesis investigates the feasibility of embedding **Machine Learning 
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center"><i>Work in progress — new repositories from my master's research (TinyML + PQC + IoT) coming soon.</i></p>
